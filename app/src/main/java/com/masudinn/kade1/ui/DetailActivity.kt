@@ -7,7 +7,6 @@ import android.view.MenuItem
 import android.widget.ImageView
 import android.widget.TextView
 import com.bumptech.glide.Glide
-import com.masudinn.kade1.R
 import org.jetbrains.anko.*
 
 class DetailActivity : AppCompatActivity() {

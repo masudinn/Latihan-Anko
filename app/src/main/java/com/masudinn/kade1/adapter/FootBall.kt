@@ -2,13 +2,10 @@ package com.masudinn.kade1.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
 import com.masudinn.kade1.model.LigaModel
 import com.masudinn.kade1.R
-import kotlinx.android.synthetic.main.item_liga.view.*
 
 
 class Football(private val context: Context, private val items: List<LigaModel>, private val listener: (LigaModel)-> Unit)
