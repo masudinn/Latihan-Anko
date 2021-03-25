@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.masudinn.kade1.R
+import com.masudinn.kade1.R.array.*
 import com.masudinn.kade1.adapter.Football
 import com.masudinn.kade1.model.LigaModel
 import kotlinx.android.synthetic.main.activity_main.*

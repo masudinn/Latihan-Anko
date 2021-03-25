@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">KADE 1</string>
 
-    <string-array name="club_name">
+    <string-array name='club_name'>
         <item>American Mayor League</item>
         <item>Australian A League</item>
         <item>English League 1</item>
