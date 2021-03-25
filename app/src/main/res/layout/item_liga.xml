@@ -11,7 +11,8 @@
         android:id="@+id/image"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/english" />
+        android:src="@drawable/english"
+        android:contentDescription="@string/img" />
 
     <TextView
         android:id="@+id/name"
